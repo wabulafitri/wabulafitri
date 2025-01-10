@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wabulafitri
-- 👀 I’m interested in Backend dev, especially Java programming language
-- 🌱 I’m currently learning JUnit
+- 👀 I’m interested in Backend dev, especially C# ASP MVC 5
+- 🌱 I’m currently learning MVC 5
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : wabulafitri@gmail.com
 
